@@ -82,3 +82,5 @@ AdaIN can transfer arbitrary new styles in real-time, combining the flexibility 
 [2. The starry night style](kao_starry_night.png)
 
 [3. The 25 styles from AdaIN](outputs.png)
+
+(The outputs in jupyter notebook is deleted due to the large data size it contains.)
