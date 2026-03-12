@@ -75,7 +75,7 @@ AdaIN can transfer arbitrary new styles in real-time, combining the flexibility 
 - Content and style representations
 - Guided-Backpropagation
 - AdaIN
-- 
+  
 ### Result
 [1. The original](kao.png)
 
