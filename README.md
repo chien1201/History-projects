@@ -1,9 +1,9 @@
 # About Me
-Programming Languages : C++, C, Python, TypeScript, HTML, CSS, JS
-Tools / Frameworks : Git / GitHub, Cocos Creator, Arduino, jupyter notebook
-Relevant Coursework : Data Structures, Computer Architecture, Software Engineering, Algorithms, Operating system
-Activities & Awards : 2024 iGEM Silver Medal, 2025-2026 nuvaclub ambassador
-Languages: Chinese - native, English - TOEIC 955, a little bit oof Korean/Japanese/German
+1. Programming Languages : C++, C, Python, TypeScript, HTML, CSS, JS
+2. Tools / Frameworks : Git / GitHub, Cocos Creator, Arduino, jupyter notebook, Firebase
+3. Relevant Coursework : Data Structures, Computer Architecture, Software Engineering, Algorithms, Operating system
+4. Activities & Awards : 2024 iGEM Silver Medal, 2025-2026 nuvaclub ambassador
+5. Languages: Chinese - native, English - TOEIC 955, a little bit oof Korean/Japanese/German
 
 # Deep-Learning projects
 ## 1. DL_comp1
