@@ -96,3 +96,5 @@ AdaIN can transfer arbitrary new styles in real-time, combining the flexibility 
 This is the wiki of our team when attending the iGEM competition. I was in Dry Lab and started the whole project with wet lab by learning their experiments, the background of these biological meanings, and what models do they need to analyze their data. My job is reading some related papers and go through all kinds of trial and error based on the works wet lab brought out. I was mainly responsible of buildong up the software app "PANDAGE", writing part of the html code on wiki, the circuit prototype and data analysis for testing cyclic voltammetry, and other things when needed. Our whole preparing process before making it in the Paris competition was shown in this wiki website.
 
 [NTHU-Taiwan 2024 WIKI](https://2024.igem.wiki/nthu-taiwan/)
+
+Here is also the MARIO game I made. [MARIO by CocosCreator](https://youtu.be/1pHyJ7S2CTE)
